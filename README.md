@@ -1,7 +1,9 @@
 # EDA-Contest_Sep21
 Analyze to show the insights regarding coronavirus pandemic.
 
-DATA SETS USED :- 
+# DATA SETS USED :-
+
+https://www.kaggle.com/sudalairajkumar/covid19-in-india
 
 covid_19_india.csv  -   This file gives the date-wise details of all states affected .
 
@@ -13,7 +15,7 @@ district_level_latest.csv  - This file gives the details of all states affected 
 
 
 
-PROJECT APPROACH  :- 
+# PROJECT APPROACH  :- 
 
 Task Details Following are the inspirations to work in this dataset :
 
@@ -29,3 +31,6 @@ What is the number of positive cases rising in India?
 
 What are the Top-N States  with the highest Fatality Ratio.
 
+# FINDINGS :-
+
+Noted in the presentation file.
